@@ -4,6 +4,6 @@
 
 
 #Libraries
-tkinter #GUI
-Wikipedia #Wiki Content
-googletrans==3.1.0a0 #Translate
+tkinter
+Wikipedia
+googletrans==3.1.0a0
