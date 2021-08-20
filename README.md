@@ -4,6 +4,9 @@
 
 
 #Libraries
+
 tkinter
+
 Wikipedia
+
 googletrans==3.1.0a0
